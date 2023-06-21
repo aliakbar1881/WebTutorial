@@ -1,0 +1,44 @@
+* {
+    background-color: rgb(245, 222, 120);
+}
+.title {
+    box-sizing: border-box;
+    height: 70px;
+    padding: 10px;
+    background-color: rgb(231, 231, 229);
+    text-align: center;
+    border: 2px solid lightgray;
+    border-bottom: none;
+    border-radius: 10px;
+    color: rgb(65, 63, 63);
+}
+
+div.source {
+    height: 100px;
+    text-align: center;
+    background-color: rgb(249, 255, 215);
+}
+
+img.source {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: ;
+    width: 60px;
+    height: 30px;
+}
+a.source {
+    display: inline-block;
+}
+.link:link {
+    text-decoration: none;
+    color: yellow;
+}
+
+div.dropbox {
+    background-color: rgb(252, 252, 252);
+    margin-top: 100px;
+    text-align: center;
+}
+li.session {
+    background-color: rgb(252, 252, 252);
+}
